@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Chris from Washington State, USA.
 Let me introduce myself.
+I am Chris from Washington State, USA.
 
 As a senior full stack engineer and Blockchain Engineer with over 6 years of experience, I am so confident with Javascript/Typescript and Python languages.
 And for recent 3 years I've been concentrating on DApp development.
