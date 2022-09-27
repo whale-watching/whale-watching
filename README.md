@@ -69,16 +69,13 @@
 
 ## Stats 📊
 
-![Whale's github stats](https://github-readme-stats.vercel.app/api?username=whale-watching&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
+<!-- ![Whale's github stats](https://github-readme-stats.vercel.app/api?username=whale-watching&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true) -->
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whale-watching&layout=compact&theme=highcontrast&hide_border=true)
 <br>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=whale-watching&theme=discord)
  
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=whale-watching&theme=react-dark)
    
 <p align="center">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=whale-watching&theme=highcontrast&hide_border=true"/>
 </p>
->>>>>>> 883c67e (update readme)
