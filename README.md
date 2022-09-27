@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-### Hi there 👋
-
-Let me introduce myself.
-I am Chris from Washington State, USA.
-
-As a senior full stack and blockchain engineer with over 6 years of experience, I am so confident with Javascript/Typescript and Python languages.
-And for recent 3 years I've been concentrating on DApp development.
-I am familiar with agile methodologies(Jira/Trello/Azure/etc) and version control systems(gitHub, gitLab, bitBucket).
-Strong in solving problems and providing clean and scalable codebase.
-
-Thank you. 
-
-=======
 <meta name="reaact-developer-portfolio"/>
 <meta name="react"/>
 <meta name="next"/>
@@ -20,11 +6,11 @@ Thank you.
 <meta name="back-end" />
 <meta name="full-stack"/>
 <h1 align="left">
-    <em>&ensp;Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Nicholas </em>
-    <em> 🚀 Full-Stack Developer! </em>
+    <em>&ensp;Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm </em>
+    <em> 🚀 Full-Stack JS and Blockchain Developer! </em>
 </h1>
 
-## :smile: Web Development is a part of my life and :book: Keep coding forever.
+## :smile: Software Development is a part of my life and :book: Keep coding forever.
 
 <a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
 
@@ -34,11 +20,16 @@ Thank you.
 - HTML/CSS3
 - JavaScript
 - TypeScript
+- ReactJS, NextJS
+- Angular, VueJS
 - NodeJS
 - PHP
 - Python
-
-## 💫 My🌟BEST🌟 SKILLS
+> Blockchain Development
+- Solidity
+- Rust
+- Golang
+## 💫 My🌟Main🌟 SKILLS
 
 <p align="center">
     <img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="40" height="40"/>
@@ -76,36 +67,18 @@ Thank you.
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
 </p>
 
-## Contact with Me <img src="source/Handshake.gif" height="32px" style="max-width:100%;" />
-
-<a href="mailto:niclas.kato92@gmail.com" target="_blank">  
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" style="height: 35px; width: 35px;">
-</a>&ensp;&ensp;
-<a href="https://www.linkedin.com/in/nicholas-kato-27b830250/" target="_blank">  
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" style="height: 35px; width: 35px;">
-</a>&ensp;&ensp;
-<a href="https://t.me/niclaskato/" target="_blank">  
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="telegram" style="height: 35px; width: 35px;">
-</a>&ensp;&ensp;
-<a href="https://join.skype.com/invite/weRQ1pwK17jc/" target="_blank">  
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504937.png" alt="skype" style="height: 35px; width: 35px;">
-</a>&ensp;&ensp;
-<a href="https://discord.gg/NrM2WtbPPd/" target="_blank">  
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504896.png" alt="discord" style="height: 35px; width: 35px;">
-</a>
-
 ## Stats 📊
 
-![Nicholas's github stats](https://github-readme-stats.vercel.app/api?username=niclaskato&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
+![Whale's github stats](https://github-readme-stats.vercel.app/api?username=whale-watching&title_color=FFFF00&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000&show_icons=true&hide_border=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niclaskato&layout=compact&theme=highcontrast&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whale-watching&layout=compact&theme=highcontrast&hide_border=true)
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=niclaskato&theme=discord)
+![trophy](https://github-profile-trophy.vercel.app/?username=whale-watching&theme=discord)
  
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=niclaskato&theme=react-dark)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=whale-watching&theme=react-dark)
    
 <p align="center">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=niclaskato&theme=highcontrast&hide_border=true"/>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=whale-watching&theme=highcontrast&hide_border=true"/>
 </p>
 >>>>>>> 883c67e (update readme)
