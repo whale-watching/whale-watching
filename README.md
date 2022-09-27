@@ -69,8 +69,6 @@
 
 ## Stats 📊
 
-![Whale's github stats]
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whale-watching&layout=compact&theme=highcontrast&hide_border=true)
 <br>
  
