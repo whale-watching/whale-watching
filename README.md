@@ -7,7 +7,7 @@
 <meta name="full-stack"/>
 
 <h2 align="center">
-    <em>&ensp;Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Kenneth Mei</em>
+    <em>&ensp;Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm </em>
     <em> 🚀 Full-Stack JS and Blockchain Developer! </em>
 </h2>
 
