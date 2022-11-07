@@ -5,31 +5,30 @@
 <meta name="front-end" />
 <meta name="back-end" />
 <meta name="full-stack"/>
-<h1 align="left">
-    <em>&ensp;Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm </em>
+
+<h2 align="center">
+    <em>&ensp;Hello </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm Kenneth Mei</em>
     <em> 🚀 Full-Stack JS and Blockchain Developer! </em>
-</h1>
+</h2>
 
 ## :smile: Software Development is a part of my life and :book: Keep coding forever.
 
-<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
+<h4>
+Creative, Passionate, and Efficient Full-Stack Blockchain developer with 6 years of experience in blockchain and web development. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented Staking Platform, DEX, Bridge, NFT Marketplaces by using Web3 libraries, Solidity and Rust.
+Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
+</h4>
+
+<p align="center">
+  <a href="https://github.com/softtscoder">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%20Blockchain%20Developer;+6%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
+  </a>
+</p>
 
 ## 🛠️ My Favorite Programming Languages
 
-> Front-End | Back-End Development
-- HTML/CSS3
-- JavaScript
-- TypeScript
-- ReactJS, NextJS
-- Angular, VueJS
-- NodeJS
-- PHP
-- Python
-> Blockchain Development
-- Solidity
-- Rust
-- Golang
-## 💫 My🌟Main🌟 SKILLS
+<a href="#"><img align="right" height="250" width="350" alt="" src="./source/back-new.gif"/></a>
+
+## 💫 TECHNICAL🌟SKILLS
 
 <p align="center">
     <img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="40" height="40"/>
@@ -55,17 +54,63 @@
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
-    <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/>
 </p>
+    
+## 💫 BLOCKCHAIN 🌟SKILLS
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUCvl89tSAMKbnSZqc9itD8CqFMpaModsxA&usqp=CAU" width="48" height="48" alt="Ethereum" />
+      </a>
+      <br>Ethereum
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0bukCY968PkxsM2v3W7dLuMvkSjS1Ni65vQ&usqp=CAU" width="48" height="48" alt="Binance" />
+      </a>
+      <br>Binance
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="48" height="48" alt="Solana" />
+      </a>
+      <br>Solana
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://cryptologos.cc/logos/casper-cspr-logo.png" width="48" height="48" alt="Casper" />
+      </a>
+      <br>Casper
+    </td>    
+    <td align="center" width="96">
+      <a href="" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3plj3648_HE4GOntwzMxwsGq9Ro9qf-wx9w&usqp=CAU" width="48" height="48" alt="React" />
+      </a>
+      <br>Polkadot
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pf4JAFjfEhB5VY0-TJH4Y1aLS-BPCdddsw&usqp=CAU" width="48" height="48" alt="Avalanche" />
+      </a>
+      <br>Avalanche
+    </td>
+    <td align="center" width="96">
+      <a href="">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwyOAYn_Z1BalQYMfN8zVqwenavJVSO9SUZ1rz0ZerShW-5Ubzf6U96kLODC-ta2bVks&usqp=CAU" width="48" height="48" alt="Polygon" />
+      </a>
+      <br>Polygon
+    </td>
+  </tr>
+</table>
 
 ## Stats 📊
 
